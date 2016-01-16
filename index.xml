@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Elements of Data Science</title>
+    <link>http://hrbrmstr.github.io/elements-of-data-science/</link>
+    <description>Recent content on Elements of Data Science</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (c) 2015, Bob Rudis; License: MIT</copyright>
+    <lastBuildDate>Sat, 16 Jan 2016 11:59:32 -0500</lastBuildDate>
+    <atom:link href="http://hrbrmstr.github.io/elements-of-data-science/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Required Texts</title>
+      <link>http://hrbrmstr.github.io/elements-of-data-science/texts/</link>
+      <pubDate>Sat, 16 Jan 2016 11:59:32 -0500</pubDate>
+      
+      <guid>http://hrbrmstr.github.io/elements-of-data-science/texts/</guid>
+      <description>
+
+&lt;h3 id=&#34;required-texts-for-gbcc-data210g:e9c732c988a3ce596971183fa352a56e&#34;&gt;Required Texts for GBCC DATA210G&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.wiley.com/WileyCDA/WileyTitle/productCd-0471666572.html&#34;&gt;Discovering Knowledge in Data&lt;/a&gt;, Wiley, 2014&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://surface.syr.edu/istpub/165/&#34;&gt;An Introduction to Data Science&lt;/a&gt;, Stanton, Syracuse University (free/online)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.jstatsoft.org/article/view/v040i01/v40i01.pdf&#34;&gt;The Split-Apply-Combine Strategy for Data Analysis&lt;/a&gt;, Journal of Statistical Software April 2011, Volume 40, Issue 1. (free/online)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>_index</title>
+      <link>http://hrbrmstr.github.io/elements-of-data-science/_index/</link>
+      <pubDate>Sat, 16 Jan 2016 11:59:32 -0500</pubDate>
+      
+      <guid>http://hrbrmstr.github.io/elements-of-data-science/_index/</guid>
+      <description>
+
+&lt;h3 id=&#34;introduction:3976528693a0108357f4928017600865&#34;&gt;Introduction&lt;/h3&gt;
+
+&lt;p&gt;This course is the foundation for introducing students to key topics in data science, including data acquisition/preparation and exploratory data analysis. Major topics include:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;an introduction to the R programming language and RStudio integrated development environment&lt;/li&gt;
+&lt;li&gt;working with modern data formats such as &lt;a href=&#34;https://en.wikipedia.org/wiki/XML&#34;&gt;XML&lt;/a&gt;, &lt;a href=&#34;https://en.wikipedia.org/wiki/Comma-separated_values&#34;&gt;CSV&lt;/a&gt;, &lt;a href=&#34;https://en.wikipedia.org/wiki/JSON&#34;&gt;JSON&lt;/a&gt;, &lt;a href=&#34;https://en.wikipedia.org/wiki/Microsoft_Excel_file_format&#34;&gt;XLS&lt;/a&gt; &amp;amp; &lt;a href=&#34;https://en.wikipedia.org/wiki/XHTML&#34;&gt;XHTML&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;data import/export from/to files, &lt;a href=&#34;https://en.wikipedia.org/wiki/Application_programming_interface&#34;&gt;API&lt;/a&gt;s, web sites &amp;amp; databases&lt;/li&gt;
+&lt;li&gt;finding data to augment analyses, and&lt;/li&gt;
+&lt;li&gt;exploratory data analysis &amp;amp; visualization.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;course-topics:3976528693a0108357f4928017600865&#34;&gt;Course Topics:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Programming in the &lt;a href=&#34;https://www.r-project.org/&#34;&gt;R Programming Language&lt;/a&gt; and using the &lt;a href=&#34;https://www.rstudio.com/products/rstudio/&#34;&gt;RStudio IDE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Organizing data analysis projects&lt;/li&gt;
+&lt;li&gt;Understanding the data analysis pipeline&lt;/li&gt;
+&lt;li&gt;Cleaning data sets and working with “tidy” data&lt;/li&gt;
+&lt;li&gt;Working with discrete &amp;amp; continuous data&lt;/li&gt;
+&lt;li&gt;Working with modern data formats (e.g. CSV, XML, etc)&lt;/li&gt;
+&lt;li&gt;Accessing data via modern APIs&lt;/li&gt;
+&lt;li&gt;Accessing data in databases&lt;/li&gt;
+&lt;li&gt;Performing exploratory data analysis&lt;/li&gt;
+&lt;li&gt;Visualizing data&lt;/li&gt;
+&lt;li&gt;Communicating analysis results&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
