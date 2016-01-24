@@ -20,7 +20,50 @@
 
 &lt;h3 id=&#34;faq:e6f81a9d8df4fb4d787121a242ea6bf1&#34;&gt;FAQ&lt;/h3&gt;
 
-&lt;p&gt;Frequently asked questions&lt;/p&gt;
+&lt;h4 id=&#34;what-will-i-get-out-of-this-course:e6f81a9d8df4fb4d787121a242ea6bf1&#34;&gt;What will I get out of this course?&lt;/h4&gt;
+
+&lt;p&gt;You will leave this course being able to:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;use the R programming language and RStudio IDE to writing scripts, import &amp;amp; export data and develop visuizations&lt;/li&gt;
+&lt;li&gt;work with a wide array of data sets and be able to &amp;ldquo;tidy&amp;rdquo; data in order to perform structured analyses&lt;/li&gt;
+&lt;li&gt;access data via APIs, including the U.S. Census Bureau, Bureau of Labor Statistics and Health &amp;amp; Human Services (along with virtually any API you can find)&lt;/li&gt;
+&lt;li&gt;use the &amp;ldquo;web&amp;rdquo; as a data source by scraping data from web sites/pages when an API is not available&lt;/li&gt;
+&lt;li&gt;perform exploratory data analysis (EDA) on any data set and describe the structure of data sets, including basic statistical information about the data&lt;/li&gt;
+&lt;li&gt;create data visualzations to communicate the results of your exploratory analyses and findings from general analyses&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;do-i-need-a-computer:e6f81a9d8df4fb4d787121a242ea6bf1&#34;&gt;Do I need a computer?&lt;/h4&gt;
+
+&lt;p&gt;Yes, you need a computer, but you can use the ones at Great Bay CC if you don&amp;rsquo;t have a personal computer.&lt;/p&gt;
+
+&lt;h4 id=&#34;do-i-need-to-install-r-on-my-system:e6f81a9d8df4fb4d787121a242ea6bf1&#34;&gt;Do I need to install R on my system?&lt;/h4&gt;
+
+&lt;p&gt;Ideally, yes. However, a cloud-based RStudio Server will be provided by the course to ensure students have access to the a standardized install.&lt;/p&gt;
+
+&lt;h4 id=&#34;will-i-need-a-text:e6f81a9d8df4fb4d787121a242ea6bf1&#34;&gt;Will I need a text?&lt;/h4&gt;
+
+&lt;p&gt;Yes. You can see which texts are required in the &lt;a href=&#34;http://hrbrmstr.github.io/elements-of-data-science/texts&#34;&gt;texts section&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h4 id=&#34;will-there-be-quizzes:e6f81a9d8df4fb4d787121a242ea6bf1&#34;&gt;Will there be quizzes?&lt;/h4&gt;
+
+&lt;p&gt;Unfortunately, yes. The class meets infrequently enough that it will be important to keep up and one of the only ways to do that is with the shadow of a test of knowledge looming large on the horizon.&lt;/p&gt;
+
+&lt;h4 id=&#34;will-there-be-tests:e6f81a9d8df4fb4d787121a242ea6bf1&#34;&gt;Will there be tests?&lt;/h4&gt;
+
+&lt;p&gt;Yes. One mid-way through and one final exam.&lt;/p&gt;
+
+&lt;h4 id=&#34;will-there-be-projects:e6f81a9d8df4fb4d787121a242ea6bf1&#34;&gt;Will there be projects?&lt;/h4&gt;
+
+&lt;p&gt;Yes. After week #1, there will be weekly projects and 1-2 larger projects that run over multiple weeks, plus one final project.&lt;/p&gt;
+
+&lt;h4 id=&#34;can-i-miss-a-class:e6f81a9d8df4fb4d787121a242ea6bf1&#34;&gt;Can I miss a class?&lt;/h4&gt;
+
+&lt;p&gt;&lt;em&gt;Kinda&lt;/em&gt;. We meet infrequently and you&amp;rsquo;ll be spotted one absence (excused or otherwise). If you plan or unexpectedly need to miss more, you will need to make arrangements with the instructor to ensure you won&amp;rsquo;t fall behind.&lt;/p&gt;
+
+&lt;h4 id=&#34;will-there-be-lab-days:e6f81a9d8df4fb4d787121a242ea6bf1&#34;&gt;Will there be &amp;ldquo;lab&amp;rdquo; days?&lt;/h4&gt;
+
+&lt;p&gt;The class meets in Room 400 and will be a mixture of instructor lectures and interactive work with datasets in R. There is no &amp;ldquo;lab day&amp;rdquo; but you can make arrangements with the instructor to be available at Great Bay. There is the option for a virtual &amp;ldquo;hangout&amp;rdquo; as well, provided there is a common time folks are willing to set aside outside of class to participate.&lt;/p&gt;
 </description>
     </item>
     
