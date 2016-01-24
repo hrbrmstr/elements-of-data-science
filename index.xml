@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Elements of Data Science</title>
+    <title>DATA210G: Elements of Data Science</title>
     <link>http://hrbrmstr.github.io/elements-of-data-science/</link>
-    <description>Recent content on Elements of Data Science</description>
+    <description>Recent content on DATA210G: Elements of Data Science</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2016, Bob Rudis; License: MIT</copyright>
@@ -50,7 +50,7 @@
       <guid>http://hrbrmstr.github.io/elements-of-data-science/syllabus/</guid>
       <description>
 
-&lt;p&gt;Course runs every Wednesday, 2016-02-16 through 2016-05-09 from 19:00-21:30 (7PM-9:30PM) in Room 400&lt;/p&gt;
+&lt;p&gt;DATA2106 run runs &lt;em&gt;every Wednesday&lt;/em&gt;, 2016-02-16 through 2016-05-09 from 19:00-21:30 (7PM-9:30PM) in &lt;em&gt;Room 400&lt;/em&gt;&lt;/p&gt;
 
 &lt;h3 id=&#34;classes:051025d606153e159a2b11ffecb897d5&#34;&gt;&lt;strong&gt;Classes&lt;/strong&gt;&lt;/h3&gt;
 
