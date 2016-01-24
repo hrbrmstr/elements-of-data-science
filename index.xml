@@ -18,7 +18,21 @@
       <guid>http://hrbrmstr.github.io/elements-of-data-science/FAQ/</guid>
       <description>
 
-&lt;h3 id=&#34;what-will-i-get-out-of-this-course:e6f81a9d8df4fb4d787121a242ea6bf1&#34;&gt;What will I get out of this course?&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#faq-1&#34;&gt;What will I get out of this course?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#faq-2&#34;&gt;Do I need a computer?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#faq-3&#34;&gt;Do I need to install R on my system?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#faq-4&#34;&gt;Will I need a text?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#faq-5&#34;&gt;Will there be quizzes?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#faq-6&#34;&gt;Will there be tests?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#faq-7&#34;&gt;Will there be projects?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#faq-8&#34;&gt;Can I miss a class?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#faq-9&#34;&gt;Will there be &amp;ldquo;lab&amp;rdquo; days?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr/&gt;
+
+&lt;h3 id=&#34;what-will-i-get-out-of-this-course-a-id-faq-1-a:e6f81a9d8df4fb4d787121a242ea6bf1&#34;&gt;What will I get out of this course? &lt;a id=&#34;faq-1&#34;&gt;&lt;/a&gt;&lt;/h3&gt;
 
 &lt;p&gt;You will leave this course being able to:&lt;/p&gt;
 
@@ -31,37 +45,37 @@
 &lt;li&gt;create data visualzations to communicate the results of your exploratory analyses and findings from general analyses&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;do-i-need-a-computer:e6f81a9d8df4fb4d787121a242ea6bf1&#34;&gt;Do I need a computer?&lt;/h3&gt;
+&lt;h3 id=&#34;do-i-need-a-computer-a-id-faq-2-a:e6f81a9d8df4fb4d787121a242ea6bf1&#34;&gt;Do I need a computer? &lt;a id=&#34;faq-2&#34;&gt;&lt;/a&gt;&lt;/h3&gt;
 
 &lt;p&gt;Yes, you need a computer, but you can use the ones at Great Bay CC if you don&amp;rsquo;t have a personal computer.&lt;/p&gt;
 
-&lt;h3 id=&#34;do-i-need-to-install-r-on-my-system:e6f81a9d8df4fb4d787121a242ea6bf1&#34;&gt;Do I need to install R on my system?&lt;/h3&gt;
+&lt;h3 id=&#34;do-i-need-to-install-r-on-my-system-a-id-faq-3-a:e6f81a9d8df4fb4d787121a242ea6bf1&#34;&gt;Do I need to install R on my system? &lt;a id=&#34;faq-3&#34;&gt;&lt;/a&gt;&lt;/h3&gt;
 
 &lt;p&gt;Ideally, yes. However, a cloud-based RStudio Server will be provided by the course to ensure students have access to the a standardized install.&lt;/p&gt;
 
-&lt;h3 id=&#34;will-i-need-a-text:e6f81a9d8df4fb4d787121a242ea6bf1&#34;&gt;Will I need a text?&lt;/h3&gt;
+&lt;h3 id=&#34;will-i-need-a-text-a-id-faq-4-a:e6f81a9d8df4fb4d787121a242ea6bf1&#34;&gt;Will I need a text? &lt;a id=&#34;faq-4&#34;&gt;&lt;/a&gt;&lt;/h3&gt;
 
 &lt;p&gt;Yes. You can see which texts are required in the &lt;a href=&#34;../texts&#34;&gt;texts section&lt;/a&gt;.&lt;/p&gt;
 
-&lt;h3 id=&#34;will-there-be-quizzes:e6f81a9d8df4fb4d787121a242ea6bf1&#34;&gt;Will there be quizzes?&lt;/h3&gt;
+&lt;h3 id=&#34;will-there-be-quizzes-a-id-faq-5-a:e6f81a9d8df4fb4d787121a242ea6bf1&#34;&gt;Will there be quizzes? &lt;a id=&#34;faq-5&#34;&gt;&lt;/a&gt;&lt;/h3&gt;
 
 &lt;p&gt;Unfortunately, yes. The class meets infrequently enough that it will be important to keep up and one of the only ways to do that is with the shadow of a test of knowledge looming large on the horizon.&lt;/p&gt;
 
-&lt;h3 id=&#34;will-there-be-tests:e6f81a9d8df4fb4d787121a242ea6bf1&#34;&gt;Will there be tests?&lt;/h3&gt;
+&lt;h3 id=&#34;will-there-be-tests-a-id-faq-6-a:e6f81a9d8df4fb4d787121a242ea6bf1&#34;&gt;Will there be tests? &lt;a id=&#34;faq-6&#34;&gt;&lt;/a&gt;&lt;/h3&gt;
 
 &lt;p&gt;Yes. One mid-way through and one final exam.&lt;/p&gt;
 
-&lt;h3 id=&#34;will-there-be-projects:e6f81a9d8df4fb4d787121a242ea6bf1&#34;&gt;Will there be projects?&lt;/h3&gt;
+&lt;h3 id=&#34;will-there-be-projects-a-id-faq-7-a:e6f81a9d8df4fb4d787121a242ea6bf1&#34;&gt;Will there be projects? &lt;a id=&#34;faq-7&#34;&gt;&lt;/a&gt;&lt;/h3&gt;
 
 &lt;p&gt;Yes. After week #1, there will be weekly projects and 1-2 larger projects that run over multiple weeks, plus one final project.&lt;/p&gt;
 
-&lt;h3 id=&#34;can-i-miss-a-class:e6f81a9d8df4fb4d787121a242ea6bf1&#34;&gt;Can I miss a class?&lt;/h3&gt;
+&lt;h3 id=&#34;can-i-miss-a-class-a-id-faq-8-a:e6f81a9d8df4fb4d787121a242ea6bf1&#34;&gt;Can I miss a class? &lt;a id=&#34;faq-8&#34;&gt;&lt;/a&gt;&lt;/h3&gt;
 
 &lt;p&gt;&lt;em&gt;Kinda&lt;/em&gt;. We meet infrequently and you&amp;rsquo;ll be spotted one absence (excused or otherwise). If you plan or unexpectedly need to miss more, you will need to make arrangements with the instructor to ensure you won&amp;rsquo;t fall behind.&lt;/p&gt;
 
-&lt;h3 id=&#34;will-there-be-lab-days:e6f81a9d8df4fb4d787121a242ea6bf1&#34;&gt;Will there be &amp;ldquo;lab&amp;rdquo; days?&lt;/h3&gt;
+&lt;h3 id=&#34;will-there-be-lab-days-a-id-faq-9-a:e6f81a9d8df4fb4d787121a242ea6bf1&#34;&gt;Will there be &amp;ldquo;lab&amp;rdquo; days? &lt;a id=&#34;faq-9&#34;&gt;&lt;/a&gt;&lt;/h3&gt;
 
-&lt;p&gt;The class meets in Room 400 and will be a mixture of instructor lectures and interactive work with datasets in R. There is no &amp;ldquo;lab day&amp;rdquo; but you can make arrangements with the instructor to be available at Great Bay. There is the option for a virtual &amp;ldquo;hangout&amp;rdquo; as well, provided there is a common time folks are willing to set aside outside of class to participate.&lt;/p&gt;
+&lt;p&gt;The class meets in Room 400 and will be a mixture of instructor lectures and interactive work with datasets in R. There is no &amp;ldquo;lab day&amp;rdquo; but you can make arrangements with the instructor to be available at Great Bay. There is also the option for a virtual &amp;ldquo;hangout&amp;rdquo; as well, provided there is a common time folks are willing to set aside outside of class to participate.&lt;/p&gt;
 </description>
     </item>
     
