@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>DATA210G: Elements of Data Science</title>
+    <title>Elements of Data Science</title>
     <link>http://hrbrmstr.github.io/elements-of-data-science/</link>
-    <description>Recent content on DATA210G: Elements of Data Science</description>
+    <description>Recent content on Elements of Data Science</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2016, Bob Rudis; License: MIT</copyright>
