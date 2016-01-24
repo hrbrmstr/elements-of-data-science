@@ -201,7 +201,7 @@ We will move at a pace dictated by class discussions. Please check this page oft
     <item>
       <title>_index</title>
       <link>http://hrbrmstr.github.io/elements-of-data-science/_index/</link>
-      <pubDate>Sat, 16 Jan 2016 11:59:32 -0500</pubDate>
+      <pubDate>Sun, 24 Jan 2016 11:59:32 -0500</pubDate>
       
       <guid>http://hrbrmstr.github.io/elements-of-data-science/_index/</guid>
       <description>
@@ -241,6 +241,10 @@ We will move at a pace dictated by class discussions. Please check this page oft
 &lt;li&gt;Visualizing data&lt;/li&gt;
 &lt;li&gt;Communicating analysis results&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;h3 id=&#34;data210g-cloud-based-r-rstudio:3976528693a0108357f4928017600865&#34;&gt;DATA210G Cloud-based R/RStudio&lt;/h3&gt;
+
+&lt;p&gt;Regardless of whether you have R &amp;amp; RStudio installed locally, you can use the &lt;a href=&#34;http://gbcc-rstudio.dds.ec&#34;&gt;cloud instance provided by Great Bay&lt;/a&gt;. This will be the environment used in class.&lt;/p&gt;
 </description>
     </item>
     
