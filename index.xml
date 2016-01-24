@@ -51,7 +51,7 @@
       <description>
 
 &lt;style&gt;
-th { padding-right: 10px;}
+tr { padding-right: 10px;}
 &lt;/style&gt;
 
 &lt;p&gt;DATA2106 run runs &lt;em&gt;every Wednesday&lt;/em&gt;, 2016-02-16 through 2016-05-09 from 19:00-21:30 (7PM-9:30PM) in &lt;em&gt;Room 400&lt;/em&gt;&lt;/p&gt;
